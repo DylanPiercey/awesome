@@ -67,6 +67,7 @@ Plugins for working with awesome JavaScript frameworks.
 - [svelte](https://github.com/rollup/rollup-plugin-svelte) — Compile Svelte components.
 - [vue](https://github.com/vuejs/rollup-plugin-vue) - Compile Vue components.
 - [vue-inline-svg](https://github.com/e-e-e/rollup-plugin-vue-inline-svg) - Import SVG files as Vue components.
+- [marko](https://github.com/marko-js/rollup) - Compile Marko components.
 
 ### Modules
 
